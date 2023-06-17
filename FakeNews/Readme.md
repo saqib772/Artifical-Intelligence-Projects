@@ -31,6 +31,7 @@ The code performs the following steps:
 ![labels](https://github.com/saqib772/Artifical-Intelligence-Projects/assets/121972215/3951f02d-cc56-4f10-aa13-d4ede14b6199)
 
 - Create a word cloud to visualize the most frequent words in the news articles.
+![download](https://github.com/saqib772/Artifical-Intelligence-Projects/assets/121972215/dc779d95-95f9-4ad1-ae3a-d77d4ecea914)
 
 - Plot a histogram of document lengths to analyze the distribution of word counts.
 ![word](https://github.com/saqib772/Artifical-Intelligence-Projects/assets/121972215/e40029c9-5185-4b7b-8707-c0f08b90d275)
