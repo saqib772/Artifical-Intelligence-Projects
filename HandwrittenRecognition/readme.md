@@ -5,7 +5,7 @@ Hello friends, ‘Digits’ are a part of our everyday life, be it License plate
 Machine Learning and Deep Learning are reducing human efforts in almost every field. Moreover, a solution achieved using ML and DL can power various applications at the same time, thereby reducing human effort and increasing the flexibility to use the solution. One such solution is a handwritten digit recognition system that can be used in postal mail sorting, bank check processing, form data entry, etc.
 
 ## MNIST DATASET
-https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/09/mnist-dataset.jpg
+![alt text](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/09/mnist-dataset.jpg)
 
 We are going to use the famous MNIST dataset for training our CNN model. The MNIST dataset was compiled with images of digits from various scanned documents and then normalized in size. Each image is of a dimension, 28×28 i.e total 784 pixel values.
 
