@@ -37,6 +37,7 @@ The code performs the following steps:
 ![word](https://github.com/saqib772/Artifical-Intelligence-Projects/assets/121972215/e40029c9-5185-4b7b-8707-c0f08b90d275)
 
 - Display the label proportions using a pie chart.
+
 ![pop](https://github.com/saqib772/Artifical-Intelligence-Projects/assets/121972215/eeb6f168-cb6f-45c8-8e45-bede5b4d4c0a)
 
 - Plot the model accuracy over time or iterations using a line plot.
